@@ -196,5 +196,7 @@ SHOW DATABASES;
 ```
 
 ---
+## Outputs
+
 ![Output Screenshot](D.png)
 ![Output Screenshot](M.png)
