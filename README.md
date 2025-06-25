@@ -1,7 +1,7 @@
 
 # Terraform Docker Multi-Container Setup (NGINX, MySQL, Redis)
 
-![Screenshot](C.png)
+![Screenshot](Co.png)
 
 ## ✅ Project Steps
 
