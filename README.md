@@ -1,6 +1,8 @@
 
 # Terraform Docker Multi-Container Setup (NGINX, MySQL, Redis)
 
+![Screenshot](C.png)
+
 ## ✅ Project Steps
 
 1. Install and Configure Terraform Docker Provider  
