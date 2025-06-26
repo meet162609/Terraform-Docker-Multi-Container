@@ -199,4 +199,6 @@ SHOW DATABASES;
 ## Outputs
 
 ![Output Screenshot](D.png)
+![Output Screenshot](Terr.png)
+![Output Screenshot](Mul.png)
 ![Output Screenshot](M.png)
