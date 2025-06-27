@@ -189,7 +189,11 @@ docker exec -it <Docker Container Id> bash
 ```bash
 mysql -u root -p
 ```
-# Enter password: rootpass123
+# Then Enter Password: Admin@1234
+
+```bash
+docker exec -it mysql-db mysql -u admin -p
+```
 
 ```bash
 SHOW DATABASES;
