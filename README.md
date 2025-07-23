@@ -29,9 +29,10 @@ terraform {
     }
   }
 }
-
+## use command in terminal or local machine
+## docker context use default
+## docker context ls
 provider "docker" {
-  host = "npipe:////./pipe/docker_engine"
 }
 
 resource "docker_network" "my_network" {
@@ -109,7 +110,7 @@ variable "nginx_image" {
 variable "mysql_image" {
   description = "Docker image for MySQL"
   type        = string
-  default     = "mysql:5.7"
+  default     = "mysql/mysql-server:5.7"
 }
 
 variable "redis_image" {
